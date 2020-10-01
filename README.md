@@ -1,5 +1,5 @@
 # IntroGit
 Aula de introdução ao git - Pós CD 2020
 
-#Segunda descrição
+# Segunda descrição
 Atualização do Readme  
